@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ibrahim/Desktop/AomataCodeChallange/aomataCodeChallenge/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.156" />
+        <entry key="..\:/Users/Ibrahim/Desktop/AomataCodeChallange/aomataCodeChallenge/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Ibrahim/Desktop/AomataCodeChallange/aomataCodeChallenge/app/src/main/res/layout/images_list_item.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Ibrahim/Desktop/AomataCodeChallange/aomataCodeChallenge/app/src/main/res/layout/layout_paging_footer.xml" value="0.25" />
+        <entry key="..\:/Users/Ibrahim/Desktop/AomataCodeChallange/aomataCodeChallenge/app/src/main/res/layout/toolbar.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/activity_image_detail.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.134375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
