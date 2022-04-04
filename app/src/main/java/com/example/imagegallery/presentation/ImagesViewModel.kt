@@ -32,7 +32,7 @@ class ImagesViewModel @Inject constructor(
         get() = _getimagesResponse
 
 
-    fun getMovies() {
+    fun getImages() {
         viewModelScope.launch(Dispatchers.IO) {
             _getimagesResponse.postValue(Resource.Loading())
 

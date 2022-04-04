@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">ImageGallery</string>
+    <string name="app_name">AomataCodeChallange</string>
     <string name="slower_internet_connection">Your internet connection is not stable.</string>
     <string name="unknown_error_occoured">An unknown error occoured.</string>
-    <string name="home_title">Image Gallery</string>
+    <string name="home_title">Unsplash Images</string>
     <string name="try_again_text_btn">Try Again</string>
     <string name="error_text_label">Wops something happened</string>
 

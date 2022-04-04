@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         })
-        viewModel.getMovies()
+        viewModel.getImages()
     }
 
     private fun gotoDetailActivity(fullImagePath: String) {
